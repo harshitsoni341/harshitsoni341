@@ -19,7 +19,7 @@
 
 ### 👨💻 About Me
 
-- 🎓 **B.Tech ECE** @ Maulana Azad National Institute of Technology (MANIT), Bhopal *(CGPA: 7.70)*
+- 🎓 **B.Tech ECE** @ Maulana Azad National Institute of Technology (MANIT), Bhopal 
 - 💼 **Ex Software Developer Intern** @ [AlignTogether.live](https://aligntogether.live) — ReactJS, NodeJS, RESTful APIs
 - 🚀 Building full-stack apps with the **MERN Stack**
 - 🧩 **400+ DSA problems** solved on LeetCode, GFG & Coding Ninjas
